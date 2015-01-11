@@ -1,2 +1,2 @@
-# iterm2-theme-sandbox
+# iterm2-theme-sandman
 iTerm2 Light theme like sands
